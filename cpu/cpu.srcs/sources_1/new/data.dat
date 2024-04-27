@@ -1,0 +1,13 @@
+ADDI $s1 $zero 0x0001 //a is $s1, has 1
+    ADDI $s2 $zero 0x0002 //b is $s2, has 2
+    ADDI $s3 $zero 0x0003 //c is $s3, has 3
+    ADDI $s4 $zero 0x0004 //d is $s4, has 4
+    ADD $t0 $s1 $s2 //put a+b in $t0
+    ADD $t1 $s3 $s4 //put c+d in $t1
+    SUB $s0 $t1 $t0 //put (c+d)-(a+b) in $s0
+    SW $s1 0x0($zero)
+    SW $s2 0x4($zero)
+    SW $s3 0x8($zero)
+    SW $s4 0xC($zero) //this is 12($zero) in decimal
+    SW $s0 0x10($zero) //this is 16($zero) in decimal
+    LW $s1 0x8($zero)

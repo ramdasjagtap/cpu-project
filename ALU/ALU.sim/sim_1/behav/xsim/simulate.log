@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+data - 0 : 
+data[          0] : 12abc
+data[          1] : 34def
+data[          2] : 1dead
+data[          3] : 2bee1
+data - 1 : 
+RAM[          0] : 21
+RAM[          1] : a4
+RAM[          2] : 2a
+RAM[          3] : 26
+RAM[          4] : 7a
+RAM[          5] : ff
+RAM[          6] : 6f

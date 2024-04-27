@@ -1,0 +1,23 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/ramdas/Project/ALU/ALU.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sim_1/new/tb_testing.v,1714150475,verilog,,,,tb_testing,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/addition.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/arithmetic_right_shift.v,,addition,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/arithmetic_right_shift.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/bitwise_AND.v,,arithmetic_right_shift,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/bitwise_AND.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/bitwise_OR.v,,bitwise_AND,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/bitwise_OR.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/bitwise_xor.v,,bitwise_OR,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/bitwise_xor.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/comparision.v,,bitwise_xor,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/comparision.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/division_unsigned_numbers.v,,comparision,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/division_unsigned_numbers.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_AND.v,,division_unsigned_numbers;unsigned_division,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/fulladder.v,1712225207,verilog,,/home/ramdas/Project/halfadder.v,,fulladder,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_AND.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_OR.v,,logical_AND,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_OR.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_XOR.v,,logical_OR,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_XOR.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_l_shift.v,,logical_XOR,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_l_shift.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_r_shift.v,,logical_l_shift,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/logical_r_shift.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/modulo_op.v,,logical_r_shift,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/modulo_op.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/multiplier.v,,modulo_op,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/multiplier.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/subtraction.v,,adder_64;full_add;halfadder;multiplier;wallace_8,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/subtraction.v,1714137445,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/top_ALU.v,,subtraction,,,,,,,,
+/home/ramdas/Project/ALU/ALU.srcs/sources_1/new/top_ALU.v,1714139354,verilog,,/home/ramdas/Project/ALU/ALU.srcs/sim_1/new/tb_testing.v,,top_ALU,,,,,,,,
